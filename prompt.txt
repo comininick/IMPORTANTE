@@ -1,0 +1,63 @@
+comandos do prompt 12/05: npm create vite@lat est
+                      gerenciador/ template  ultima versao
+                   de bibliotecas/
+
+framework react
+variante do react é o java script
+cd medalha indicando o nome da pasta
+npm install idependencias
+npm run dev executal seu servidor
+
+
+
+
+
+sublime
+medalha
+vite; fotinha
+gitignore;arquivos e pastas ignorados no commit
+package,json; ficam minhas deoendencias; e a versao da que eu estou utilizando
+readme; presta pra nada
+config; toda vez que tiver e configuração
+css;img
+jsx; java S
+
+--------------------------------------------------------------------------------------
+cd Documentes
+maven num java
+
+gerenciador de bibliotecas tambem
+entrar em maven 
+https://maven.apache.org/download.cgi
+apache-maven-3.9.9-bin.zip
+criar pasta maven 
+ctrl c e ctrl v
+na pasta
+---------------------------------
+pesquisar variaveis
+editar as variaveis de ambiente da sua conta
+criar pastinha na parte de cima "MAVEN_HOME" e copiar o codigozinho da pasta
+editar paht;e se nao tiver criar %MAVEN_HOME%\bin
+!nao pode estar uma pasta dentro da outra,
+ e quando copiar o codigo da pasta nao pode ter o bin!
+----------------------------------------
+ir para o terminal 
+mvn -v
+entrar em dow ou doc 
+mvn archetype:generate
+-----------------------------------------
+//comando mvn// Gerar o tipo ou arquetipo
+mvn archetype:generate
+	//Adicionar o id do grupo da minha aplicaçao//
+	-DgroupId=com.exemplo
+		//Adicionar o id do meu projeto//
+		-DartifactId=meu-projeto
+			//Qual o tipo arquetipo que eu quero utilizar//
+			-DarchetypeArtifactId=
+				maven-archettype-quickstart
+--------------------------------------------------------
+mvn archetype:generate -DgroupId=com.comininick -DartifactId=nicolle
+ -DarchetypeArtifactId=maven-archetype-quickstart //codigo\\
+enter; 
+confirma com Y
+BUILD SUCCESS!!
